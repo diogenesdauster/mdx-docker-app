@@ -1,0 +1,18 @@
+{
+  "name": "new-app-container",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/when": "^2.4.34",
+    "mendixmodelsdk": "^4.55.0",
+    "mendixplatformsdk": "^4.1.1",
+    "when": "^3.7.8"
+  }
+}
